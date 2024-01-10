@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-h6ct4ic1l+wbbk-=zzv7q7jeq(&+kshj$=8d)vy)=hwaxq-&@l
 # settings.py
 
 DEBUG = False  # Set to False in production
-ALLOWED_HOSTS = ['your-render-app.onrender.com', 'your-custom-domain.com']
+ALLOWED_HOSTS = ['https://cmms-qxt3.onrender.com']
 
 AUTH_USER_MODEL = 'app.User'
 # Application definition
